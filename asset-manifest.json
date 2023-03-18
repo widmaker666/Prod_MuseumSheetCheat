@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.ca6c994a.css",
-    "main.js": "/static/js/main.d7ff8ec9.js",
+    "main.css": "/static/css/main.6ed7c69b.css",
+    "main.js": "/static/js/main.c825fedf.js",
     "static/js/845.3b6dcd8d.chunk.js": "/static/js/845.3b6dcd8d.chunk.js",
     "static/media/sound.mp3": "/static/media/sound.4f42599e5c31fc082b14.mp3",
     "static/media/alien.png": "/static/media/alien.5dad267997eec12d6a01.png",
@@ -12,16 +12,18 @@
     "static/media/fenetre.jpg": "/static/media/fenetre.409babc300fa2755cb48.jpg",
     "static/media/loading.gif": "/static/media/loading.9baacddf7e5c862905dc.gif",
     "static/media/RobotoCondensed-Regular.ttf": "/static/media/RobotoCondensed-Regular.fc3d2f2e3a203d0037c1.ttf",
+    "static/media/jesus.jpg": "/static/media/jesus.5ae5953f90d9613d7ff0.jpg",
     "static/media/logo.png": "/static/media/logo.bdd9bdc3c13f9f64c99e.png",
     "static/media/Dali.jpg": "/static/media/Dali.d88d534f6730d40f69be.jpg",
+    "static/media/mur.png": "/static/media/mur.74c6597c62c840aeb037.png",
     "static/media/matisse.jpg": "/static/media/matisse.9634ecae6977c7412145.jpg",
     "index.html": "/index.html",
-    "main.ca6c994a.css.map": "/static/css/main.ca6c994a.css.map",
-    "main.d7ff8ec9.js.map": "/static/js/main.d7ff8ec9.js.map",
+    "main.6ed7c69b.css.map": "/static/css/main.6ed7c69b.css.map",
+    "main.c825fedf.js.map": "/static/js/main.c825fedf.js.map",
     "845.3b6dcd8d.chunk.js.map": "/static/js/845.3b6dcd8d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ca6c994a.css",
-    "static/js/main.d7ff8ec9.js"
+    "static/css/main.6ed7c69b.css",
+    "static/js/main.c825fedf.js"
   ]
 }
