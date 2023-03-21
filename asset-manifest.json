@@ -1,9 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.6ed7c69b.css",
-    "main.js": "/static/js/main.166bcbed.js",
+    "main.css": "/static/css/main.925798b8.css",
+    "main.js": "/static/js/main.a162e615.js",
     "static/js/845.3b6dcd8d.chunk.js": "/static/js/845.3b6dcd8d.chunk.js",
-    "static/media/sound.mp3": "/static/media/sound.4f42599e5c31fc082b14.mp3",
+    "static/media/sound.mp3": "/static/media/sound.250366fdfcb4390eb5b1.mp3",
+    "static/media/marbre.jpg": "/static/media/marbre.ef121a74cf607b605e84.jpg",
+    "static/media/dali2.jpg": "/static/media/dali2.5cc4e5904e88c90c2a98.jpg",
     "static/media/alien.png": "/static/media/alien.5dad267997eec12d6a01.png",
     "static/media/la-passion.jpg": "/static/media/la-passion.2b8b506a50bfd0c513dd.jpg",
     "static/media/ambush1.jpg": "/static/media/ambush1.f959de930391860e07de.jpg",
@@ -18,12 +20,12 @@
     "static/media/mur.png": "/static/media/mur.74c6597c62c840aeb037.png",
     "static/media/matisse.jpg": "/static/media/matisse.9634ecae6977c7412145.jpg",
     "index.html": "/index.html",
-    "main.6ed7c69b.css.map": "/static/css/main.6ed7c69b.css.map",
-    "main.166bcbed.js.map": "/static/js/main.166bcbed.js.map",
+    "main.925798b8.css.map": "/static/css/main.925798b8.css.map",
+    "main.a162e615.js.map": "/static/js/main.a162e615.js.map",
     "845.3b6dcd8d.chunk.js.map": "/static/js/845.3b6dcd8d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6ed7c69b.css",
-    "static/js/main.166bcbed.js"
+    "static/css/main.925798b8.css",
+    "static/js/main.a162e615.js"
   ]
 }
